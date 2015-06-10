@@ -1,0 +1,1 @@
+This project will develop useful applications to interact with the Kiva micro lending website. The Kiva API can be found at: http://build.kiva.org/
